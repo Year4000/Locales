@@ -1,5 +1,6 @@
 # Locale Files Only
 *.*
 !*.properties
+!*.json
 !.gitignore
 !README.md
